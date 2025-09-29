@@ -1,3 +1,4 @@
+//CS 425 Assignment 2
 import vertexShaderSrc from './vertex.glsl.js';
 import fragmentShaderSrc from './fragment.glsl.js'
 
